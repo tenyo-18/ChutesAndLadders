@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.gameboard.chutesladders.ChutesAndLaddersTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-03-27T23:24:30" hostname="C02CM33MMD6R.grubhub.local" time="0.011">
+  <properties/>
+  <testcase name="testPlayerOrder()" classname="com.gameboard.chutesladders.ChutesAndLaddersTest" time="0.004"/>
+  <testcase name="testGameTurns()" classname="com.gameboard.chutesladders.ChutesAndLaddersTest" time="0.006"/>
+  <system-out><![CDATA[
+Test 1: 0 --> 4  --LADDER--> 14.
+Test 2: 0 --> 4  --LADDER--> 14.]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
